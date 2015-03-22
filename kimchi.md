@@ -1,6 +1,3 @@
-*Original recipe multiplied by 0.25
-*Recipe rounded to nearest cooking fraction
-
 #### Water Soak:
 - 2.5lbs of napa cabbage
 - 1/4 cup salt
